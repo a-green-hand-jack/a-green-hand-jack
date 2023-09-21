@@ -21,7 +21,7 @@ So if you are also interested in this field or already have professional knowled
 - 🌱 I’m currently learning Deep Learning for Computer Vision and reading *Deep Learning*
 - 📫 How to reach me: https://a-green-hand-jack.github.io/blog/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-green-hand-jack)](https://github.com/anuraghazra/github-readme-stats)
 Currently, my main focus is on studying the professional knowledge of machine learning and biology. Python is the language I most commonly use in my work. Occasionally, I also use MATLAB and Mathematica, but not as frequently.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-green-hand-jack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-green-hand-jack)](https://github.com/anuraghazra/github-readme-stats)
