@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, this is Jack Wu(武杰克), a third-year undergraduate student at the Department of Life Sciences and Medicine,University of [Science and Technology of China](https://www.ustc.edu.cn/).And I aim to leverage artificial intelligence tools to revolutionize the field of life sciences.So if you are also interested in this field or already have professional knowledge, please feel free to communicate with me. Here is my (blog)[https://a-green-hand-jack.github.io/blog], where I frequently share updates on my recent studies. 
+Hello, this is Jack Wu(武杰克), a third-year undergraduate student at the Department of Life Sciences and Medicine,University of [Science and Technology of China](https://www.ustc.edu.cn/).And I aim to leverage artificial intelligence tools to revolutionize the field of life sciences.So if you are also interested in this field or already have professional knowledge, please feel free to communicate with me. Here is my [blog](https://a-green-hand-jack.github.io/blog), where I frequently share updates on my recent studies. 
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=a-green-hand-jack&theme=merko&show_icons=true">
@@ -25,4 +25,4 @@ Currently, my main focus is on studying the professional knowledge of machine le
 
 - 🔭 I’m currently working on A small task of image segmentation and recognition.
 - 🌱 I’m currently learning Deep Learning for Computer Vision and reading *Deep Learning*
-- 📫 How to reach me: You can always find me on my (blog)[https://a-green-hand-jack.github.io/blog/].
+- 📫 How to reach me: You can always find me on my [blog](https://a-green-hand-jack.github.io/blog/).
