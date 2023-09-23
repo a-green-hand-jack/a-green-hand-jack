@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Hello, this is Jack Wu(武杰克), a third-year undergraduate student at the Department of Life Sciences and Medicine,University of [Science and Technology of China](https://www.ustc.edu.cn/).And I aim to leverage artificial intelligence tools to revolutionize the field of life sciences.So if you are also interested in this field or already have professional knowledge, please feel free to communicate with me. Here is my [blog](https://a-green-hand-jack.github.io/blog), where I frequently share updates on my recent studies. 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=a-green-hand-jack&theme=merko&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=a-green-hand-jack&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=a-green-hand-jack&theme=merko&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-green-hand-jack&show_icons=true">
 </picture>
 
 Currently, my main focus is on studying the professional knowledge of machine learning and biology. Python is the language I most commonly use in my work. Occasionally, I also use MATLAB and Mathematica, but not as frequently.
